@@ -1,0 +1,5 @@
+<section>
+  <h3>Flat button example</h3>
+  <a href="#" class="button-nav">Previous</a>
+  <a href="#" class="button-nav">Next</a>
+</section>
